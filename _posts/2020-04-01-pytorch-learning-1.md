@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Pytorch中常用的一些方法"
+title:  "Pytorch learning 1"
 subtitle:	
-date:   2020/5/16 13:03:42
+date:   2020-5-16 13:03:42
 header-img: "img/post-think-try-write.jpg"
 ---
 
 
-
+s
 # pytorch中常用的一些方法：
 
 
