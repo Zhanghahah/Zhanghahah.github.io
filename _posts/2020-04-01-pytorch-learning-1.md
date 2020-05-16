@@ -7,8 +7,8 @@ header-img: "img/post-think-try-write.jpg"
 ---
 
 
-s
-# pytorch中常用的一些方法：
+
+# pytorch learning 1：
 
 
 

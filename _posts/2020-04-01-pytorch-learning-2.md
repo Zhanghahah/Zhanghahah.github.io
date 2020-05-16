@@ -5,7 +5,7 @@ subtitle:
 date:   2020-5-16 13:03:42
 header-img: "img/post-think-try-write.jpg"
 ---
-# pytorch 中的一些方法2
+# pytorch learning 2
 
 `1. 对Resnet的理解`：
 
