@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Pytorch中常用的一些方法"
+subtitle:	
+date:   2020/5/16 13:03:42
+header-img: "img/post-think-try-write.jpg"
+---
 # pytorch 中的一些方法2
 
 `1. 对Resnet的理解`：
